@@ -1,0 +1,10 @@
+.idea
+node_modules
+dist
+build
+local
+backup_*
+coverage/
+.env.prod.build
+yarn.lock
+.env
